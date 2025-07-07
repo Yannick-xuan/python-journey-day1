@@ -1,0 +1,6 @@
+.
+..
+data
+notes
+README.txt
+scripts

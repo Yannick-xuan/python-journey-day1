@@ -1,0 +1,3 @@
+my name is test
+Today's date: 2025-07-06
+The square of 7 is 49

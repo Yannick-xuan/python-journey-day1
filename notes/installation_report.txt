@@ -1,0 +1,7 @@
+conda 24.9.2
+Python 3.12.7
+What's the difference between Miniconda and Anaconda?
+Miniconda is a minimal installer that includes only conda, Python and essential 
+packages. Anaconda is a full distribution that includes conda, Python, and over 150 
+scientific packages. Miniconda is smaller and lets you install only what you need, while 
+Anaconda provides a ready-to-use environment but takes more disk space.
