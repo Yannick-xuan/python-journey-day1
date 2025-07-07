@@ -1,0 +1,14 @@
+# Python Learning Log
+Three new pieces of knowledge I learned today
+I have learned to create files and folders using the command line
+2. Mastered the basic operations of Conda environmental management
+3. Understood the basic usage method of Jupyter Notebook
+Two challenges or confusions encountered:
+When using the command line for the first time, I was not familiar enough with the 
+syntax of various commands
+2. I encountered permission issues when configuring the Git remote repository
+One thing I want to try next time:
+Learn more Python data types and control structures
+One thing I'm proud of today:
+All tasks were successfully completed and a complete Python development environment was 
+established
